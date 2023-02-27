@@ -1,2 +1,2 @@
-# data_analysis_course_project
-Project from a course in Data Analysis
+These two data analytics projects form the final assigment from one of the modules of the advanced training course in Data Analaytics that I started to attend on september 2022. 
+The module was about data analysis with pandas and seaborn mostly.
